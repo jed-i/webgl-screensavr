@@ -1,0 +1,25 @@
+{
+  "name": "webgl-screensaver",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jed-i/webgl-screensavr",
+  "authors": [
+    "Simon Bloomer <simon.bloomer@tinderstone.com>"
+  ],
+  "description": "an amazing screensaver",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "webgl"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
